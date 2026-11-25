@@ -1,12 +1,11 @@
-# ascendtech
+# Ascend Tech
 A snapshot on what I did during my Technology internship with Accenture
 
 AscendTech — Career Assessment Platform 
 
 **Note:** This repository contains my individual contributions (`index.html` and `style.css`) for a 5-person team project. Because the  logic and database were built by other team members in a separate environment, this repo serves as a static showcase of the UI design and form structure.
 
-For Full Application Walkthrough see 'Ascend Tech demorun'
-
+**Please refer to the screenshots of the finalised model of the website.
 
 My Role & Contributions
 Working within a **team of 5, I was responsible for designing and building the user-facing landing page and career assessment interface:
